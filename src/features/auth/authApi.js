@@ -46,7 +46,7 @@ export const authApi = apiSlice.injectEndpoints({
                 method:'POST',
                 body: data
             }),
-
+            
             // amader query request korar por onQueryStarted method kaj korbe 
             
             async onQueryStarted( arg, { queryFulfilled, dispatch }){
@@ -79,5 +79,6 @@ export const authApi = apiSlice.injectEndpoints({
 
     })
 })
+
 
 export const { useRegisterMutation, useLoginMutation } = authApi;  
