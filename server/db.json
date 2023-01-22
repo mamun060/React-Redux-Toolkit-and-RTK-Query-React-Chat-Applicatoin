@@ -20,15 +20,9 @@
     },
     {
       "email": "almamun.raju520@gmail.com",
-      "password": "$2a$10$v.ZiCBfZ2xDSiQnRl0cRneYvQ6a341T9Y6shHaSIbW.535f/8v.ni",
+      "password": "$2a$10$RuI05L9KGh1.1zQKsZnGxO4EL5vrpAjWJPWOo5w8IOe2zn/tYHcUi",
       "name": "Raju",
       "id": 4
-    },
-    {
-      "email": "almamun.raju0@gmail.com",
-      "password": "$2a$10$bvV2i8xFm7DxU5VmNGCNPe9pkMInmG1Xz1hd5MaqqL8BAM6zkSdHa",
-      "name": "Raju",
-      "id": 5
     }
   ],
   "conversations": [
