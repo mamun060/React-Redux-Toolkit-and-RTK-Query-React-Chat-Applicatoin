@@ -28,11 +28,11 @@
   "conversations": [
     {
       "id": 1,
-      "participants": "sumit@learnwithsumit.com-akash@learnwithsumit.com",
+      "participants": "almamun.raju520@gmail.com-akash@learnwithsumit.com",
       "users": [
         {
-          "email": "sumit@learnwithsumit.com",
-          "name": "Sumit Saha",
+          "email": "almamun.raju520@gmail.com",
+          "name": "Raju",
           "id": 1
         },
         {
@@ -46,11 +46,11 @@
     },
     {
       "id": 2,
-      "participants": "sumit@learnwithsumit.com-saad@learnwithsumit.com",
+      "participants": "almamun.raju520@gmail.com-saad@learnwithsumit.com",
       "users": [
         {
-          "email": "sumit@learnwithsumit.com",
-          "name": "Sumit Saha",
+          "email": "almamun.raju520@gmail.com",
+          "name": "Raju",
           "id": 1
         },
         {
@@ -68,8 +68,8 @@
       "id": 1,
       "conversationId": 1,
       "sender": {
-        "email": "sumit@learnwithsumit.com",
-        "name": "Sumit Saha",
+        "email": "almamun.raju520@gmail.com",
+        "name": "Raju",
         "id": 1
       },
       "receiver": {
@@ -89,8 +89,8 @@
         "id": 2
       },
       "receiver": {
-        "email": "sumit@learnwithsumit.com",
-        "name": "Sumit Saha",
+        "email": "almamun.raju520@gmail.com",
+        "name": "Raju",
         "id": 1
       },
       "message": "How are you?",
