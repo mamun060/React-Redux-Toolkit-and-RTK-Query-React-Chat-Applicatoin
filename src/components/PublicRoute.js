@@ -5,6 +5,6 @@ export default function PublicRoute({children}) {
     const isLoggedIn = useAuth();
 
   return !isLoggedIn ? children : (
-    <Navigate to="/" />
+    <Navigate to="/inbox" />
   )
 }

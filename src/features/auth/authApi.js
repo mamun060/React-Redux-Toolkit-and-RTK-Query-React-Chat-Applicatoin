@@ -1,4 +1,3 @@
-import { CreateApi } from "@reduxjs/toolkit/query/react";
 import { apiSlice } from "../api/apiSlice";
 import { userLoggedIn } from "./authSlice";
 
