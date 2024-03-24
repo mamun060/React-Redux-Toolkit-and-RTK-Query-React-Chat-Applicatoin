@@ -1,5 +1,3 @@
-
-
 export default function ChatItem({ avatar, name, lastMessage, lastTime }) {
     return (
         <div
